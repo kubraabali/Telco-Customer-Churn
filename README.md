@@ -1,6 +1,6 @@
 # Telco Customer Churn
 
-!(https://i.pinimg.com/564x/d4/2c/dd/d42cddc2f24d565752724a2947c02119.jpg)
+![churn](https://i.pinimg.com/564x/d4/2c/dd/d42cddc2f24d565752724a2947c02119.jpg)
 
 
 ## Problem 
