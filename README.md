@@ -1,6 +1,8 @@
 # Telco Customer Churn
 
 ![churn](https://i.pinimg.com/564x/d4/2c/dd/d42cddc2f24d565752724a2947c02119.jpg)
+
+
 "Churn" kelimesi, müşteri kaybı anlamına gelir. Bu, bir müşterinin ürün ya da hizmet satın alma işlemi gerçekleştirdikten sonra, belirli bir zaman dilimi içerisinde tekrar satın alma işlemi yapmaması veya abonelik süresini uzatmaması anlamına gelir.
 
 Churn oranı, müşterilerin ne sıklıkta işletmeyle tekrar etkileşimde bulunduğunu gösterir. Bu oran düşükse, müşterilerin işletmeyle olan bağlılığı yüksektir ve işletmenin kârı da artar. Ancak churn oranı yüksekse, müşteri kaybı artar ve işletmenin geliri de azalır.
