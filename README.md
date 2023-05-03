@@ -1,15 +1,18 @@
 # Telco Customer Churn
 
 ![churn](https://i.pinimg.com/564x/d4/2c/dd/d42cddc2f24d565752724a2947c02119.jpg)
+"Churn" kelimesi, müşteri kaybı anlamına gelir. Bu, bir müşterinin ürün ya da hizmet satın alma işlemi gerçekleştirdikten sonra, belirli bir zaman dilimi içerisinde tekrar satın alma işlemi yapmaması veya abonelik süresini uzatmaması anlamına gelir.
 
+Churn oranı, müşterilerin ne sıklıkta işletmeyle tekrar etkileşimde bulunduğunu gösterir. Bu oran düşükse, müşterilerin işletmeyle olan bağlılığı yüksektir ve işletmenin kârı da artar. Ancak churn oranı yüksekse, müşteri kaybı artar ve işletmenin geliri de azalır.
+
+Churn, özellikle abonelik bazlı hizmetlerde veya tekrarlayan satın alma işlemlerinin yapıldığı işletmelerde önemli bir metrik olarak kullanılır. İşletmeler, churn oranını azaltmak için müşterilerinin ihtiyaçlarını anlamak, onlara uygun hizmetler sunmak ve müşteri memnuniyetini artırmak gibi farklı stratejiler kullanabilirler. 
 
 ## Problem 
-Şirketi terk edecek müşterileri tahmin edebilecek bir makine öğrenmesi modeli geliştirilmesi istenmektedir.
-Modeli geliştirmeden önce gerekli olan veri analizi ve özellik mühendisliği adımlarını gerçekleştirmeniz beklenmektedir.
 
 Telco müşteri churn verileri, üçüncü çeyrekte Kaliforniya'daki 7043 müşteriye ev telefonu ve İnternet hizmetleri sağlayan
-hayali bir telekom şirketi hakkında bilgi içerir. Hangi müşterilerin hizmetlerinden ayrıldığını, kaldığını veya hizmete kaydolduğunu içermektedir.
+hayali bir telekom şirketi hakkında bilgi içerir. Hangi müşterilerin hizmetlerinden ayrıldığını, kaldığını veya hizmete kaydolduğunu içermektedir.Telco şirketini terk edecek müşterileri tahmin edebilecek bir makine öğrenmesi modeli geliştirilmesi istenmektedir.
 
+Veri seti paylaşılamamaktadır.
 21 Değişken 7043 Gözlem bulunmaktadır.
 
 ## Değişkenler
