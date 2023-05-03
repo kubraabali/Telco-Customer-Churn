@@ -1,6 +1,7 @@
 # Telco Customer Churn
 
-<img src="(https://i.pinimg.com/564x/d4/2c/dd/d42cddc2f24d565752724a2947c02119.jpg)" alt="alt text" width="320" height="180">
+!(https://i.pinimg.com/564x/d4/2c/dd/d42cddc2f24d565752724a2947c02119.jpg)
+
 
 ## Problem 
 Şirketi terk edecek müşterileri tahmin edebilecek bir makine öğrenmesi modeli geliştirilmesi istenmektedir.
